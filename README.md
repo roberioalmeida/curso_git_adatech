@@ -16,3 +16,5 @@ esse arquivo esta todo desonerado, todo quengado
    git push --set-upstream origin <branch>
 ## ir para uma branch remota   
    For branches from a remote repository, the 'git checkout --track origin/my-branch-name' command is utilized.
+## push para uma branch inexistente remoto
+Pushing to a branch that does not exist on the remote can be done using 'git push -u origin my-branch-name' or 'git push -u origin HEAD', where HEAD refers to the top of the current branch. If the branch already exists on the remote, the 'git push' command can be used.   
