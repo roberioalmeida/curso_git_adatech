@@ -4,4 +4,10 @@
 esse arquivo esta todo desonerado, todo quengado
 >>>>>>> vou testar o git fech e git diff
 ## git checkout -b <new-branch>
- cria uma nova branch e vai para ela ex: git checkout -b berim
+   cria uma nova branch e vai para ela ex: git checkout -b berim
+## listar branchs local
+   git brach --list
+## How to List Remote Branches in Git?
+   git branch -a
+## deletar branch
+   git branch -d
