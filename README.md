@@ -14,3 +14,5 @@ esse arquivo esta todo desonerado, todo quengado
 ## para dar um push remoto para nova branch criada
    mudar no github para a branch
    git push --set-upstream origin <branch>
+## ir para uma branch remota   
+   For branches from a remote repository, the 'git checkout --track origin/my-branch-name' command is utilized.
