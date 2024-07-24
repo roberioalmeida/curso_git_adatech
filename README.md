@@ -11,3 +11,6 @@ esse arquivo esta todo desonerado, todo quengado
    git branch -a
 ## deletar branch
    git branch -d
+## para dar um push remoto para nova branch criada
+   mudar no github para a branch
+   git push --set-upstream origin <branch>
